@@ -33,12 +33,15 @@ Yaptığım uygulamanın iconu
 
 ![app_icon](https://user-images.githubusercontent.com/92873250/237022800-7592c190-43d7-42f4-90c3-61f06d0927fd.png)
 
-Sayfanın İnfo(Tanıtım - On board ) Kısmı
+ İnfo(Tanıtım - On board ) Page
 
 ![info_page](https://user-images.githubusercontent.com/92873250/237022873-430b1e6a-2a73-42fc-a79a-bde93fdf2438.png)
 
-Sayfanın Home (Ana Sayfa) Kısmı
+ Home (Ana Sayfa) Page
 
 ![home_page](https://user-images.githubusercontent.com/92873250/237023006-1563244d-8636-414b-b05f-7bfc8d05f63f.png)
 
+Detail Page (Detay Sayfası)
+
+![detail](https://user-images.githubusercontent.com/92873250/237042275-514e5c5a-eefc-4ab9-9e56-e6d9dc7355e5.png)
 
