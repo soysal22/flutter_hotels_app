@@ -2,7 +2,7 @@ MyTeacher => #Milhan https://github.com/Milhan
 
 Bu Tasarımı Örnek Alarak Flutter Üzerinden Tasarladım => https://www.uplabs.com/posts/hotel-booking-mobile-app-concept-9bfaa1cf-8711-4b8b-881d-499642c80c68
 
-TAsarım : ![design ,250,200](https://assets.materialup.com/uploads/722337d8-d170-42de-83ae-29b96a7b9b27/preview.png)
+TAsarım : !(https://assets.materialup.com/uploads/722337d8-d170-42de-83ae-29b96a7b9b27/preview.png)
 
 
 # flutter_ Hotels_App 
