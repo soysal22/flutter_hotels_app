@@ -27,19 +27,31 @@ samples, guidance on mobile development, and a full API reference.
 �
 �
 
-Yaptığım uygulamanın iconu 
-
-<img src="https://user-images.githubusercontent.com/92873250/237022800-7592c190-43d7-42f4-90c3-61f06d0927fd.png" width=300 height=600 object-fit: fill>  
 
 
- İnfo(Tanıtım - On board ) Page
- 
-<img src="https://user-images.githubusercontent.com/92873250/237022873-430b1e6a-2a73-42fc-a79a-bde93fdf2438.png" width=300 height=600 object-fit: fill> 
+<table>
+  <tr>
+    <td>
+      <figure style="position: relative;">
+        <img src="https://user-images.githubusercontent.com/92873250/237022800-7592c190-43d7-42f4-90c3-61f06d0927fd.png" width=300 height=600 object-fit: fill>
+        <figcaption style="position: absolute;  ">App İcon</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure style="position: relative;">
+        <img src="https://user-images.githubusercontent.com/92873250/237022873-430b1e6a-2a73-42fc-a79a-bde93fdf2438.png" width=300 height=600 object-fit: fill>
+        <figcaption style="position: absolute; top: 0; left: 0;">Info Page</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure style="position: relative;">
+       <img src="https://user-images.githubusercontent.com/92873250/237023006-1563244d-8636-414b-b05f-7bfc8d05f63f.png" width=300 height=600 object-fit: fill> 
+        <figcaption style="position: absolute; top: 0; left: 0;">Home Page</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
 
-
- Home (Ana Sayfa) Page
- 
-<img src="https://user-images.githubusercontent.com/92873250/237023006-1563244d-8636-414b-b05f-7bfc8d05f63f.png" width=300 height=600 object-fit: fill> 
 
 
 Detail Page (Detay Sayfası)
