@@ -1,6 +1,6 @@
 MyTeacher => #Milhan https://github.com/Milhan
 
-Bu Tasarımı Örnek Alarak Flutter Üzerinden Tasarladım => https://www.uplabs.com/posts/grocery-mobile-app-design-815bcac1-35f5-430f-b391-afa699b555e6
+Bu Tasarımı Örnek Alarak Flutter Üzerinden Tasarladım => https://www.uplabs.com/posts/hotel-booking-mobile-app-concept-9bfaa1cf-8711-4b8b-881d-499642c80c68
 
 
 
