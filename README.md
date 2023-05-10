@@ -1,7 +1,7 @@
 # FLUTTER HOTELS APP
 
 
-## MyTeacher => #Milhan https://github.com/Milhan
+### MyTeacher => #Milhan https://github.com/Milhan
 
 Bu Tasarımı Örnek Alarak Flutter Üzerinden Tasarladım => https://www.uplabs.com/posts/hotel-booking-mobile-app-concept-9bfaa1cf-8711-4b8b-881d-499642c80c68
 
